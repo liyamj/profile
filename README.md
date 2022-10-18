@@ -1,3 +1,4 @@
- This is the first website that I have created using HTML.
- Inline CSS properties has also been made into use.
+THIS IS THE FIRST WEBSITE THAT I HAVE MADE.
+USED HTML AND INLINE CSS.
+
  
